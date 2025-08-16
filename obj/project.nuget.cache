@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "t9lAbs4Uu4Q=",
+  "success": true,
+  "projectFilePath": "/Users/claes.adamsson/IKEA/code/tbdflow/tbdflow.fsproj",
+  "expectedPackageFiles": [
+    "/Users/claes.adamsson/.nuget/packages/commandlineparser/2.9.1/commandlineparser.2.9.1.nupkg.sha512",
+    "/Users/claes.adamsson/.nuget/packages/fsharp.core/9.0.300/fsharp.core.9.0.300.nupkg.sha512",
+    "/Users/claes.adamsson/.nuget/packages/microsoft.netcore.app.runtime.osx-arm64/9.0.6/microsoft.netcore.app.runtime.osx-arm64.9.0.6.nupkg.sha512",
+    "/Users/claes.adamsson/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-arm64/9.0.6/microsoft.aspnetcore.app.runtime.osx-arm64.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
